@@ -1,0 +1,2 @@
+Puan
+Oyuncu
